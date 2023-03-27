@@ -4,8 +4,8 @@ A repo to list all chatgpt plugins available and the location of their manifest 
 ## AI Plugin Manifest Files Location
 
 ### D
-Datasette - https://datasette.io/.well-known/ai-plugin.json
-DomainsGPT - https://domainsg.pt/.well-known/ai-plugin.json
+* Datasette - https://datasette.io/.well-known/ai-plugin.json
+* DomainsGPT - https://domainsg.pt/.well-known/ai-plugin.json
 
 ### I
 
