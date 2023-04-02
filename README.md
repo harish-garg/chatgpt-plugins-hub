@@ -33,6 +33,10 @@ A repo to list all chatgpt plugins available and the location of their manifest 
 * Speak - https://api.speak.com/.well-known/ai-plugin.json
 * Slack - https://slack.com/.well-known/ai-plugin.json
 
+### T
+
+* Transvribe - https://www.transvribe.com/.well-known/ai-plugin.json
+
 ### W
 
 * WolframAlpha - https://www.wolframalpha.com/.well-known/ai-plugin.json
