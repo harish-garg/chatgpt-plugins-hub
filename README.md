@@ -58,3 +58,12 @@ Some information in this list is sourced from one or more sources listed as belo
 * https://github.com/wong2/chatgpt-plugins
 * https://github.com/transitive-bullshit/chatgpt-well-known-plugin-finder
 * https://twitter.com/vaibhavk97
+
+---
+
+## About me
+My name is Harish Garg. I am a solo developer. I write at my blog [here](https://harishgarg.com/).
+
+I also maintain a [MCP Resources Directory](https://www.mcpstack.org/) & a [coding ai tools directory](https://www.codeaidirectory.com/)
+
+---
